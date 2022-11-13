@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Thiago Pereira, desenvolvedor Front End
+Meu nome é Thiago Pereira
 <br><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 <br>
